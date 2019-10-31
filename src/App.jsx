@@ -91,7 +91,7 @@ class App extends React.Component {
           <div className="Box-header">
             <h3 className="Box-title d-flex flex-justify-center">
               {" "}
-              Grading App{" "}
+              GradeBook{" "}
             </h3>
           </div>
         </div>
